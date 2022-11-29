@@ -1,0 +1,17 @@
+body{font-family: 'Poppins', sans-seri;
+margin: 0%;}
+.blue{color:orange;}
+h1{font-size: 50px;}
+.peralal{display: flex;
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+}
+.half{padding: 20px 40px;}
+.image{width: 300px;
+padding-top:100px ;}
+.button{text-decoration: none;
+background-image:linear-gradient(orange,tomato) ;
+padding: 10px 20px;
+color: wheat;}
+
+
